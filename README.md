@@ -1,240 +1,239 @@
-# botSmall caps Font
+# botSmall caps 
 ʙ
-Currency Font
+
 ฿
-Double Struck Font
+
 𝔹
-Antrophobia Font
+
 в
-Bubble Font
+
 Ⓑ
-Invisible Ink Font
+
 B҉
-Double Ink Font
+
 B҉҉
-Fraktur Font
+
 𝔅
-Bold Fraktur Font
+
 𝕭
-Fantasy Font
+
 ꪉ
-Flaky Font
+
 ᗷ
-Manga Font
+
 乃
-Block Font
 🇧‌
-Rusify Font
+
 Б
-Black bubble Font
+
 🅑
 
  
 
  
-Bold Script Font
+
 𝓑
-Wierd Font
+
 B̟̈́̆̐̄̚͜
-Hand Writing Font
+
 ℬ
-Smooth Font
+
 Ⴆ
-Symbols Font
+
 ♭
-Bold Font
+
 𝐁
-Italic Font
+
 𝘉
-Bold Italic Font
+
 𝘽
-Monospace Font
+
 𝙱
-Noisy Font
+
 B̛̙̙͉̬̦̻̾͛̕͟
-Sorcerer Font
+
 ɮ
-Visible Font
+
 в
-Spacing Font
+
 Ｂ
-So hot Font
+
 B𞀓
-Zalgo Font
+
 B̵̴҉̞̠̘̩͍̱́͊͗͜͠͠͠͠
-Square Font
+
 🄱
-Upside down Font
+Upside down 
 q
-Blurry Font
+Blurry 
 B͏
-Tiny Caps Font
+
 ʙ
-H4k3r Font
+H4k3r 
 8
-Black square Font
+
 🅱
-Fancy style 1 Font
+1 
 𐒈
-Fancy style 2 Font
+2 
 𐒈
-Fancy style 3 Font
+3 
 Ᏸ
-Fancy style 4 Font
+4 
 Ᏸ
-Fancy style 5 Font
+5 
 β
-Fancy style 6 Font
+6 
 Ᏸ
-Fancy style 7 Font
+7 
 β
-Fancy style 8 Font
+8 
 ɓ
-Fancy style 9 Font
+9 
 ฿
-Fancy style 10 Font
+10 
 ๒
-Fancy style 11 Font
+11 
 ც
-Fancy style 12 Font
+12 
 ꃲ
-Fancy style 13 Font
+13 
 β
-Fancy style 14 Font
+14 
 β
-Fancy style 15 Font
+15 
 ჩ
-Fancy style 16 Font
+16 
 β
-Fancy style 17 Font
+17 
 ᙘ
-Fancy style 18 Font
+18 
 ꌃ
-Fancy style 19 Font
+19 
 ꃳ
-Fancy style 20 Font
+20 
 в
-Fancy style 21 Font
+21 
 ꃃ
-Fancy style 22 Font
+22 
 Ᏸ
-Fancy style 23 Font
+23 
 Б
-Fancy style 24 Font
+24 
 ɮ
-Fancy style 25 Font
+25 
 ҍ
-Fancy style 26 Font
+26 
 ꌃ
-Fancy style 27 Font
+27 
 ᴮ
-Fancy style 28 Font
+28 
 ꃳ
-Fancy style 29 Font
+29 
 Ϧ
-Fancy style 30 Font
+30 
 Ɓ
-Fancy style 31 Font
+31 
 ꋰ
-Fancy style 32 Font
+32 
 ꍗ
-Fancy style 33 Font
+33 
 Յ
-Fancy style 34 Font
+34 
 乃
-Fancy style 35 Font
+35 
 ß
-Fancy style 36 Font
+36 
 ๖
-Fancy style 37 Font
+37 
 ც
-Fancy style 38 Font
+38 
 ᗷ
-Fancy style 39 Font
+39 
 ꃃ
-Fancy style 40 Font
+40 
 ც
-Fancy style 41 Font
+41 
 ጌ
-Strikethrough Font
+Strikethrough 
 B̶
-Tilde strikethrough Font
+Tilde strikethrough 
 B̴
-Slash Font
+Slash 
 B̷
-Below Font
+Below 
 B̲
-Double Font
+Double 
 B̳
-Over Font
+Over 
 B͞
-Under Font
+Under 
 B͟
-Lightning Font
+Lightning 
 B͛
-Zigzag Font
+Zigzag 
 B᷈
-Eye Font
+Eye 
 B͒
-Swap Font
+Swap 
 B̬̂
-Pin Font
+Pin 
 B྇
-Double Pins Font
+Double Pins 
 B༙྇
-Wave Font
+Wave 
 B͠
-Infinite Font
+Infinite 
 B͚
-Ripple Font
+Ripple 
 B҇
-Bud Font
+Bud 
 Bོ
-Double Bud Font
+Double Bud 
 Bཽ
-Checked Font
+Checked 
 B᩶
-Grass Font
+Grass 
 Bࠥ
-Stinky Font
+Stinky 
 B̾
-Bridge above Font
+Bridge above 
 B͆
-Bridge bellow Font
+Bridge bellow 
 B̺
-Bridge above-bellow Font
+Bridge above-bellow 
 B̺͆
-Asterisk bellow Font
+Asterisk bellow 
 B͙
-Plus sign bellow Font
+Plus sign bellow 
 B̟
-x above bellow Font
+x above bellow 
 B͓̽
-Arrow bellow Font
+Arrow bellow 
 B͎
-Happy Font
+Happy 
 B̆̈
-Sad Font
+Sad 
 B̑̈
-Ring Font
+Ring 
 B̥ͦ
-Dot above Font
+
 Ḃ
-Stop Font
+
 B⃠
-Cloudy Font
+
 B͜͡
-Birdy Font
+
 B҈
-Bars Font
+
 B̵̵͓̫̲̭͔̌̄̄̈́͟͞
-Squiggles Font
+
 B̳̳̼̟̮ͨ́ͫ͜͠͠͞͞
-Stringy Font
+
 B̡̢̡̢
-Fire Font
+
 B҈҉҈҉
-Messy Font
+
 B꙲꙲
-Lines Font
+
 B̳̿͟͞
